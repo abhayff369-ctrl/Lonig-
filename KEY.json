@@ -5,8 +5,19 @@
   "button": "LOGIN",
   "toast": "✅ Successfully Logged In!",
   "renewUrl": "https://t.me/Akfreemod",
-  "devices": 
-  
+  "devices": [
+    {
+      "device_id": "12345dd09876",
+      "username": "Abhay",
+      "password": "12345",
+      "expire_date": "2026-10-20"
+    },
+    {
+      "device_id": "asdf2357890gi88",
+      "username": "Abhay Singh",
+      "password": "123",
+      "expire_date": "2026-04-15"
+    },
     {
       "device_id": "mydevice11223344",
       "username": "Ankit",
